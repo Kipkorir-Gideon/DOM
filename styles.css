@@ -7,8 +7,16 @@ body {
     align-items: center;
     color: white;
     border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+}
+
+ul {
+    background-color: white;
+    color: black;
 }
 
 li {
     list-style: none;
+    border-bottom: 1px solid;
 }
