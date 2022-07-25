@@ -12,11 +12,13 @@ body {
 }
 
 ul {
-    background-color: white;
+    background-color: rgb(234, 231, 231);
     color: black;
+    padding: 5px;
 }
 
 li {
     list-style: none;
     border-bottom: 1px solid;
+    padding: 5px;
 }

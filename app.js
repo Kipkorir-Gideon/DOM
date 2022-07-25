@@ -16,6 +16,10 @@ console.log(listItem);
 
 //GetElementByTagNAme()
 
+const listItems = document.getElementsByTagName('li');
+
+console.log(listItems);
+
 
 //QuerySelector()
 
