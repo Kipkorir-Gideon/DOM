@@ -30,3 +30,7 @@ console.log(container);
 
 //QuerySelectorAll()
 
+const divs = document.querySelectorAll('div');
+
+console.log(divs);
+
