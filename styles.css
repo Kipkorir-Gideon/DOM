@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(30, 29, 29);
+}
+
+.container {
+    border: 1px solid white;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+}
+
+li {
+    list-style: none;
+}
