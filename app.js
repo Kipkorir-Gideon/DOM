@@ -5,6 +5,8 @@
 
 const title = document.getElementById('main-heading');
 
+title.style.color = 'red';
+
 console.log(title);
 
 //GetElementByClassName()
