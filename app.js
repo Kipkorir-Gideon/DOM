@@ -13,6 +13,10 @@ console.log(title);
 
 const listItem = document.getElementsByClassName('list-items');
 
+for(let i = 0; i < listItem.length; i++) {
+    listItem[i].style.color = 'green';
+}
+
 console.log(listItem);
 
 
