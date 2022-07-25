@@ -23,6 +23,10 @@ console.log(listItems);
 
 //QuerySelector()
 
+const container = document.querySelector('div');
+
+console.log(container);
+
 
 //QuerySelectorAll()
 
