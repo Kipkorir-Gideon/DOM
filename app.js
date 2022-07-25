@@ -9,6 +9,10 @@ console.log(title);
 
 //GetElementByClassName()
 
+const listItem = document.getElementsByClassName('list-items');
+
+console.log(listItem);
+
 
 //GetElementByTagNAme()
 
