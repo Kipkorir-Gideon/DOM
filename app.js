@@ -47,4 +47,9 @@ const li = document.createElement('li');
 
 ul.append(li);
 
-li.innerText = 'X-men'
+li.innerText = 'X-men';
+
+li.classList.add('list-items');
+
+
+document.querySelector('ul .list-items').style.color = 'red';
